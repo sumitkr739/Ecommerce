@@ -27,14 +27,17 @@ This project is a fully functional e-commerce website built using the MERN stack
    ```
 2. Install dependencies for both the frontend and backend:
    ```bash
-   cd ecommerce
+   cd backend
    npm install
-   cd client
+   cd frontend
    npm install
    ```
 3. Create a `.env` file in the root folder with necessary environment variables (e.g., database URL, JWT secret, payment gateway keys).
 4. Run the development servers:
    ```bash
+   Backend :-
+   npm start
+   Frontend
    npm run dev
    ```
 
